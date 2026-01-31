@@ -1,1 +1,1 @@
-# This is my Laptop work and i am working on the progect based on FPGA.
+# This is my Laptop work and i am working on the project based on FPGA.
